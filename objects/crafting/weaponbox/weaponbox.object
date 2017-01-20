@@ -1,0 +1,53 @@
+{
+  "objectName" : "weaponbox",
+  "colonyTags" : ["crafting"],
+  "rarity" : "Rare",
+  "price" : 750,
+  "description" : "Used to buy grab bags of weapons",
+  "shortdescription" : "^orange;Weapon Box^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "printable" : false,
+
+  "interactAction" : "OpenCraftingInterface",
+    "interactData" : {
+		"config" : "/interface/windowconfig/crafting.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Weapon Box",
+        "subtitle" : "Turn your hard-earned pixels into firearms!",
+        "icon" : {
+          "file" : "/objects/crafting/weaponbox/weaponboxcraftingicon.png"
+        }
+      }
+    },
+    "filter" : [ "weaponbox" ]
+  },
+
+  "apexDescription" : "Advanced technology, this thing makes guns from raw pixels.",
+  "avianDescription" : "A box which somehow produces guns.",
+  "floranDescription" : "Floran buy sssword, ssstab thingsss...",
+  "glitchDescription" : "Awed. This box is a glorious device.",
+  "humanDescription" : "I can buy guns from this box.",
+  "hylotlDescription" : "This box is crude... Still... I can buy quality weapons here.",
+  "novakidDescription" : "Oh man, I can't wait to buy some new guns from this box. ",
+
+  "inventoryIcon" : "weaponboxicon.png",
+  
+ "orientations" : [
+    {
+      "dualImage" : "weaponbox.png:<color>.<key>",
+      "imagePosition" : [-8, 0],
+
+      "spaces" : [ [-1, 0], [0, 0], [1, 0], [-1, 1], [0, 1], [1, 1], [-1, 2], [0, 2], [1, 2] ],
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "recipeGroup" : "weaponbox",
+  "openSounds" : [ "/sfx/objects/miningchest_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/miningchest_close.ogg" ],
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

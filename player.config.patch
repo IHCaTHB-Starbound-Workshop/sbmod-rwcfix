@@ -1,0 +1,93 @@
+[
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/174",
+    "value": {
+      "item": "weaponbox"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/175",
+    "value": {
+      "item": "gunbag1c"
+    }
+  },
+    {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/175",
+    "value": {
+      "item": "gunbag1u"
+    }
+  },
+    {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/175",
+    "value": {
+      "item": "gunbag1r"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/176",
+    "value": {
+      "item": "gunbag2c"
+    }
+  },
+   {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/176",
+    "value": {
+      "item": "gunbag2u"
+    }
+  },
+   {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/176",
+    "value": {
+      "item": "gunbag2r"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/177",
+    "value": {
+      "item": "gunbag3c"
+    }
+  },
+   {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/177",
+    "value": {
+      "item": "gunbag3u"
+    }
+  },
+   {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/177",
+    "value": {
+      "item": "gunbag3r"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/178",
+    "value": {
+      "item": "gunbag4c"
+    }
+  },
+    {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/178",
+    "value": {
+      "item": "gunbag4u"
+    }
+  },
+    {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/178",
+    "value": {
+      "item": "gunbag4r"
+    }
+  }
+]

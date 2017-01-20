@@ -1,0 +1,34 @@
+{
+  "itemName" : "gunbag3c",
+  "price" : 0,
+  "level" : 1,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "mysteriousReward",
+  "description" : "Use this to get a random common heavy weapon!",
+  "shortdescription" : "Random Heavy Weapon Bag ",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "gunbag3icon.png",
+  "animation" : "/items/active/unsorted/weaponbags/weaponbag.animation",
+  "animationCustom" : {
+    "animatedParts": {
+      "parts" : {
+        "gun" : {
+          "properties" : {
+            "image" : "gunbag3.png"
+          }
+        }
+      }
+    }
+  },
+  "scripts" : ["/items/active/unsorted/weaponbags/weaponbag.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "heavyWeaponsC",
+    "level" : 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 2000 }
+  ],
+  "output" : {
+    "item" : "gunbag3r",
+    "count" : 1
+  },
+  "duration" : 4,
+"groups" : [ "mod", "weaponbox", "craftingstations", "all" ]
+}
