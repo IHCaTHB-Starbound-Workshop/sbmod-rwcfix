@@ -1,23 +1,23 @@
 {
-  "itemName" : "gunbag1u",
+  "itemName" : "meleebag1u",
   "price" : 0,
   "level" : 1,
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "mysteriousReward",
-  "description" : "Use this to get a random uncommon small arm!",
-  "shortdescription" : "Random Small Arms Bag ",
+  "description" : "Use this to get a random uncommon 1-handed melee weapon!",
+  "shortdescription" : "Random 1h Melee Weapon Bag ",
   "twoHanded" : true,
-  "itemTags" : ["weapon","ranged","bag"],
+  "itemTags" : ["weapon","melee","bag"],
 
-  "inventoryIcon" : "gunbag1icon.png",
+  "inventoryIcon" : "meleebag1icon.png",
   "animation" : "/items/active/unsorted/weaponbags/weaponbag.animation",
   "animationCustom" : {
     "animatedParts": {
       "parts" : {
         "gun" : {
           "properties" : {
-            "image" : "gunbag1.png"
+            "image" : "meleebag1.png"
           }
         }
       }
@@ -28,8 +28,8 @@
   "fireTime" : 2.0,
   "fireOffset" : [1.0, 0.0],
 
- "treasure" : {
-    "pool" : "smallArmsU",
+  "treasure" : {
+    "pool" : "1hMeleeU",
     "level" : 1
   }
 }

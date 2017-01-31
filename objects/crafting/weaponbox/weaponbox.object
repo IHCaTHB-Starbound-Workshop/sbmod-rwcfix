@@ -10,15 +10,43 @@
   "printable" : false,
 
   "interactAction" : "OpenCraftingInterface",
-    "interactData" : {
-		"config" : "/interface/windowconfig/crafting.config",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftinganvil.config",
     "paneLayoutOverride" : {
       "windowtitle" : {
-        "title" : " Weapon Box",
-        "subtitle" : "Turn your hard-earned pixels into firearms!",
+        "title" : "Weapon Box",
+        "subtitle" : "Turn your hard-earned pixels into weapons!",
         "icon" : {
           "file" : "/objects/crafting/weaponbox/weaponboxcraftingicon.png"
         }
+      },
+      "lblArmourTab" : {
+        "file" : "/interface/crafting/tabicon_hunting.png"
+      },
+      "lblConsumeTab" : {"file":""},
+      "lblEppTab" : {"file":""},
+      "categories" : {
+        "type" : "radioGroup",
+        "toggleMode" : false,
+        "buttons" : [
+          {
+            "selected" : true,
+            "position" : [18, 221],
+            "baseImage" : "/interface/crafting/unselectedTab.png",
+            "baseImageChecked" : "/interface/crafting/selectedTab.png",
+            "data" : {
+              "filter" : [ "wbranged" ]
+            }
+          },
+          {
+            "position" : [45, 221],
+            "baseImage" : "/interface/crafting/unselectedTab.png",
+            "baseImageChecked" : "/interface/crafting/selectedTab.png",
+            "data" : {
+              "filter" : [ "wbmelee" ]
+            }
+          },{"baseImage":"","baseImageChecked" : ""},{"baseImage":"","baseImageChecked" : ""}
+        ]
       }
     },
     "filter" : [ "weaponbox" ]

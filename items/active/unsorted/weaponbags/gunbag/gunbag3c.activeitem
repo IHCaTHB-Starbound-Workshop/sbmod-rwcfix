@@ -8,6 +8,7 @@
   "description" : "Use this to get a random common heavy weapon!",
   "shortdescription" : "Random Heavy Weapon Bag ",
   "twoHanded" : true,
+  "itemTags" : ["weapon","ranged","bag"],
 
   "inventoryIcon" : "gunbag3icon.png",
   "animation" : "/items/active/unsorted/weaponbags/weaponbag.animation",

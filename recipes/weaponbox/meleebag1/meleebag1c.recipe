@@ -3,9 +3,9 @@
     { "item" : "money", "count" : 1000 }
   ],
   "output" : {
-    "item" : "gunbag1c",
+    "item" : "meleebag1c",
     "count" : 1
   },
   "duration" : 4,
-"groups" : [ "mod", "weaponbox", "craftingstations", "all", "wbranged" ]
+"groups" : [ "mod", "weaponbox", "craftingstations", "all", "wbmelee" ]
 }

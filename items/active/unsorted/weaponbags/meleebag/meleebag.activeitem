@@ -1,14 +1,14 @@
 {
-  "itemName" : "gunbag4",
+  "itemName" : "meleebag4",
   "price" : 0,
   "level" : 1,
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "mysteriousReward",
-  "description" : "Use this to get a random common small arm!",
-  "shortdescription" : "Random Small Arms Bag ",
+  "description" : "Use this to get a random common melee weapon!",
+  "shortdescription" : "Random Melee Weapon Bag ",
   "twoHanded" : true,
-  "itemTags" : ["weapon","ranged","bag"],
+  "itemTags" : ["weapon","melee","bag"],
 
   "inventoryIcon" : "gunbagicon.png",
   "animation" : "/items/active/unsorted/weaponbags/weaponbag.animation",
@@ -19,7 +19,7 @@
   "fireOffset" : [1.0, 0.0],
 
   "treasure" : {
-    "pool" : "commonGun",
+    "pool" : "commonMelee",
     "level" : 1
   }
 }

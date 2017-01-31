@@ -8,6 +8,7 @@
   "description" : "Use this to get a random common long gun!",
   "shortdescription" : "Random Long Gun Bag ",
   "twoHanded" : true,
+  "itemTags" : ["weapon","ranged","bag"],
 
   "inventoryIcon" : "gunbag2icon.png",
   "animation" : "/items/active/unsorted/weaponbags/weaponbag.animation",

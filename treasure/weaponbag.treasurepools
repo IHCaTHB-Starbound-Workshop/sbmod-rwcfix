@@ -47,6 +47,36 @@
     {"weight":0.3,"item":"raresniperrifle"},
     {"weight":0.2,"item":"rareshotgun"}]}]
   ],
+  "1hMeleeC":[[0,{"pool":[
+    {"weight":0.3,"item":"commonaxe"},
+    {"weight":0.3,"item":"commondagger"},
+    {"weight":0.3,"item":"commonshortsword"}]}]
+  ],
+  "1hMeleeU":[[0,{"pool":[
+    {"weight":0.3,"item":"uncommonaxe"},
+    {"weight":0.3,"item":"uncommondagger"},
+    {"weight":0.3,"item":"uncommonshortsword"}]}]
+  ],
+  "1hMeleeR":[[0,{"pool":[
+    {"weight":0.3,"item":"rareaxe"},
+    {"weight":0.3,"item":"raredagger"},
+    {"weight":0.3,"item":"rareshortsword"}]}]
+  ],
+  "2hMeleeC":[[0,{"pool":[
+    {"weight":0.3,"item":"commonbroadsword"},
+    {"weight":0.3,"item":"commonhammer"},
+    {"weight":0.3,"item":"commonspear"}]}]
+  ],
+  "2hMeleeU":[[0,{"pool":[
+    {"weight":0.3,"item":"uncommonbroadsword"},
+    {"weight":0.3,"item":"uncommonhammer"},
+    {"weight":0.3,"item":"uncommonspear"}]}]
+  ],
+  "2hMeleeR":[[0,{"pool":[
+    {"weight":0.3,"item":"rarebroadsword"},
+    {"weight":0.3,"item":"rarehammer"},
+    {"weight":0.3,"item":"rarespear"}]}]
+  ],
   "enforcerBag":[[0,{"pool":[
     {"weight":0.3,"item":["techcard",2]},
     {"weight":0.3,"item":["techcard",3]},
