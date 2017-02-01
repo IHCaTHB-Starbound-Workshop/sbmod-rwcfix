@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "mysteriousReward",
-  "description" : "Use this to get a random 2-handed melee weapon!",
-  "shortdescription" : "Random 2h Melee Weapon Bag",
+  "description" : "Use this to get a random rare 2-handed melee weapon!",
+  "shortdescription" : "2h Melee Weapon Bag",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","bag"],
 
@@ -23,7 +23,7 @@
       }
     }
   },
-  "scripts" : ["/items/active/unsorted/weaponbags/weaponbag.lua"],
+  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
 
   "fireTime" : 2.0,
   "fireOffset" : [1.0, 0.0],

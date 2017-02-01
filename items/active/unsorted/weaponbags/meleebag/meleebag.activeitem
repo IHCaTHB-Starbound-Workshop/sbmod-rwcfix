@@ -6,14 +6,14 @@
   "rarity" : "Common",
   "category" : "mysteriousReward",
   "description" : "Use this to get a random common melee weapon!",
-  "shortdescription" : "Random Melee Weapon Bag ",
+  "shortdescription" : "Melee Weapon Bag ",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","bag"],
 
   "inventoryIcon" : "gunbagicon.png",
   "animation" : "/items/active/unsorted/weaponbags/weaponbag.animation",
   "animationCustom" : {},
-  "scripts" : ["/items/active/unsorted/weaponbags/weaponbag.lua"],
+  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
 
   "fireTime" : 2.0,
   "fireOffset" : [1.0, 0.0],

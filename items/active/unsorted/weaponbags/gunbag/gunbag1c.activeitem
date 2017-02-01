@@ -1,12 +1,12 @@
 {
   "itemName" : "gunbag1c",
-  "price" : 1000,
+  "price" : 0,
   "level" : 1,
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "mysteriousReward",
   "description" : "Use this to get a random common small arm!",
-  "shortdescription" : "Random Small Arms Bag ",
+  "shortdescription" : "Small Arms Bag ",
   "twoHanded" : true,
 
   "inventoryIcon" : "gunbag1icon.png",
@@ -22,7 +22,7 @@
       }
     }
   },
-  "scripts" : ["/items/active/unsorted/weaponbags/weaponbag.lua"],
+  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
 
   "fireTime" : 2.0,
   "fireOffset" : [1.0, 0.0],

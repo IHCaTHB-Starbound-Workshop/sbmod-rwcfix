@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "category" : "mysteriousReward",
   "description" : "Use this to get a random rare small arm!",
-  "shortdescription" : "Random Small Arms Bag ",
+  "shortdescription" : "Small Arms Bag ",
   "twoHanded" : true,
   "itemTags" : ["weapon","ranged","bag"],
 
@@ -23,7 +23,7 @@
       }
     }
   },
-  "scripts" : ["/items/active/unsorted/weaponbags/weaponbag.lua"],
+  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
 
   "fireTime" : 2.0,
   "fireOffset" : [1.0, 0.0],

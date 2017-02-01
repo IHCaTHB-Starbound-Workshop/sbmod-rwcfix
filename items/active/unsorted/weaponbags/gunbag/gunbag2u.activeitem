@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "mysteriousReward",
   "description" : "Use this to get a random uncommon long gun!",
-  "shortdescription" : "Random Long Gun Bag ",
+  "shortdescription" : "Long Gun Bag ",
   "twoHanded" : true,
   "itemTags" : ["weapon","ranged","bag"],
 
@@ -23,7 +23,7 @@
       }
     }
   },
-  "scripts" : ["/items/active/unsorted/weaponbags/weaponbag.lua"],
+  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
 
   "fireTime" : 2.0,
   "fireOffset" : [1.0, 0.0],
