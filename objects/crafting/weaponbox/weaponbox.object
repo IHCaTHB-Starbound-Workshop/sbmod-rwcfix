@@ -11,7 +11,7 @@
 
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/craftinganvil.config",
+    "config" : "/interface/windowconfig/pixelcompressor.config",
     "paneLayoutOverride" : {
       "windowtitle" : {
         "title" : "Weapon Box",
@@ -20,11 +20,12 @@
           "file" : "/objects/crafting/weaponbox/weaponboxcraftingicon.png"
         }
       },
-      "lblArmourTab" : {
+      "lblBarTab" : {
         "file" : "/interface/crafting/tabicon_hunting.png"
       },
-      "lblConsumeTab" : {"file":""},
-      "lblEppTab" : {"file":""},
+      "lblMatTab" : {
+        "file" : "/interface/crafting/tabicon_weapons.png"
+      },
       "categories" : {
         "type" : "radioGroup",
         "toggleMode" : false,
@@ -35,7 +36,7 @@
             "baseImage" : "/interface/crafting/unselectedTab.png",
             "baseImageChecked" : "/interface/crafting/selectedTab.png",
             "data" : {
-              "filter" : [ "wbranged" ]
+              "filter" : [ "ranged" ]
             }
           },
           {
@@ -43,9 +44,9 @@
             "baseImage" : "/interface/crafting/unselectedTab.png",
             "baseImageChecked" : "/interface/crafting/selectedTab.png",
             "data" : {
-              "filter" : [ "wbmelee" ]
+              "filter" : [ "melee" ]
             }
-          },{"baseImage":"","baseImageChecked" : ""},{"baseImage":"","baseImageChecked" : ""}
+          }
         ]
       }
     },
