@@ -6,6 +6,6 @@
     "item" : "gunbag3u",
     "count" : 1
   },
-  "duration" : 4,
+  "duration" : 1,
 "groups" : [ "mod", "weaponbox", "craftingstations", "all", "ranged" ]
 }

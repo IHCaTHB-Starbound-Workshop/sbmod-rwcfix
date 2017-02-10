@@ -21,10 +21,12 @@
         }
       },
       "lblBarTab" : {
-        "file" : "/interface/crafting/tabicon_hunting.png"
+        "file" : "/interface/crafting/tabicon_hunting.png",
+        "position" : [25, 223]
       },
       "lblMatTab" : {
-        "file" : "/interface/crafting/tabicon_weapons.png"
+        "file" : "/interface/crafting/tabicon_weapons.png",
+        "position" : [52, 223]
       },
       "categories" : {
         "type" : "radioGroup",
