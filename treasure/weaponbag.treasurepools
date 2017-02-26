@@ -76,15 +76,5 @@
     {"weight":0.3,"item":"rarebroadsword"},
     {"weight":0.3,"item":"rarehammer"},
     {"weight":0.3,"item":"rarespear"}]}]
-  ],
-  "enforcerBag":[[0,{"pool":[
-    {"weight":0.3,"item":["techcard",2]},
-    {"weight":0.3,"item":["techcard",3]},
-    {"weight":0.4,"item":"teleportercore"}]}]
-  ],
-  "assassinBag":[[0,{"pool":[
-    {"weight":0.3,"item":["techcard",2]},
-    {"weight":0.3,"item":["techcard",3]},
-    {"weight":0.4,"item":"teleportercore"}]}]
   ]
 }
