@@ -1,0 +1,35 @@
+{
+  "itemName" : "magicbag",
+  "price" : 0,
+  "level" : 1,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mysteriousReward",
+  "description" : "Use this to get a random magical item!",
+  "shortdescription" : "Magic Bag ",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","staff","bag"],
+
+  "inventoryIcon" : "magicbag.png",
+  "animation" : "/items/active/unsorted/weaponbags/weaponbag.animation",
+  "animationCustom" : {
+    "animatedParts": {
+      "parts" : {
+        "gun" : {
+          "properties" : {
+            "image" : "magicbag.png"
+          }
+        }
+      }
+    }
+  },
+  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "magicR",
+    "level" : 1
+  }
+}

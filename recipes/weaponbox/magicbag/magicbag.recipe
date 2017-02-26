@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 2000 }
+  ],
+  "output" : {
+    "item" : "magicbag",
+    "count" : 1
+  },
+  "duration" : 1,
+"groups" : [ "mod", "weaponbox", "craftingstations", "all", "magic", "staff" ]
+}

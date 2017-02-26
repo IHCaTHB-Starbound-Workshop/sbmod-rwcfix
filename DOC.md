@@ -15,6 +15,7 @@ gunbag2u
 gunbag3c
 gunbag3r
 gunbag3u
+magicbag
 meleebag
 meleebag1c
 meleebag1r
