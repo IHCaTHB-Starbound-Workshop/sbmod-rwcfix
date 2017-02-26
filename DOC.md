@@ -1,7 +1,7 @@
 # sbmod-
 #######
 # documentation
-last updated 2017-01-28 for version 0.1
+last updated 2017-02-25 for version 0.1a
 
 #backend
 ##item ids
