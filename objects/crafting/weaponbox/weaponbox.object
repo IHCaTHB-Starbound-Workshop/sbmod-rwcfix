@@ -12,6 +12,7 @@
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/crafting.config",
+    "requiresBlueprint" : false,
     "paneLayoutOverride" : {
       "windowtitle" : {
         "title" : "Weapon Box",
