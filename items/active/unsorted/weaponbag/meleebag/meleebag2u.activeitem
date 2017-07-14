@@ -1,35 +1,35 @@
 {
-  "itemName" : "meleebag1u",
+  "itemName" : "meleebag2u",
   "price" : 0,
   "level" : 1,
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "mysteriousReward",
-  "description" : "Use this to get a random uncommon 1-handed melee weapon!",
-  "shortdescription" : "1h Melee Weapon Bag ",
+  "description" : "Use this to get a random uncommon 2-handed melee weapon!",
+  "shortdescription" : "2h Melee Weapon Bag ",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","bag"],
 
-  "inventoryIcon" : "meleebag1icon.png",
-  "animation" : "/items/active/unsorted/weaponbags/weaponbag.animation",
+  "inventoryIcon" : "meleebag2icon.png",
+  "animation" : "/items/active/unsorted/weaponbag/weaponbag.animation",
   "animationCustom" : {
     "animatedParts": {
       "parts" : {
         "gun" : {
           "properties" : {
-            "image" : "meleebag1.png"
+            "image" : "meleebag2.png"
           }
         }
       }
     }
   },
-  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
+  "scripts" : ["/items/active/unsorted/weaponbag/weaponbag.lua"],
 
   "fireTime" : 2.0,
   "fireOffset" : [1.0, 0.0],
 
   "treasure" : {
-    "pool" : "1hMeleeU",
+    "pool" : "2hMeleeU",
     "level" : 1
   }
 }

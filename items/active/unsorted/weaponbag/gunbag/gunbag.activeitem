@@ -11,9 +11,9 @@
   "itemTags" : ["weapon","ranged","bag"],
 
   "inventoryIcon" : "gunbagicon.png",
-  "animation" : "/items/active/unsorted/weaponbags/weaponbag.animation",
+  "animation" : "/items/active/unsorted/weaponbag/weaponbag.animation",
   "animationCustom" : {},
-  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
+  "scripts" : ["/items/active/unsorted/weaponbag/weaponbag.lua"],
 
   "fireTime" : 2.0,
   "fireOffset" : [1.0, 0.0],

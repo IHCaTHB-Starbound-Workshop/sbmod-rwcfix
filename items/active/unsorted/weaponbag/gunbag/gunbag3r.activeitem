@@ -1,17 +1,17 @@
 {
-  "itemName" : "gunbag3u",
+  "itemName" : "gunbag3r",
   "price" : 0,
   "level" : 1,
   "maxStack" : 1,
-  "rarity" : "Uncommon",
+  "rarity" : "Rare",
   "category" : "mysteriousReward",
-  "description" : "Use this to get a random uncommon heavy weapon!",
+  "description" : "Use this to get a random rare heavy weapon!",
   "shortdescription" : "Heavy Weapon Bag ",
   "twoHanded" : true,
   "itemTags" : ["weapon","ranged","bag"],
 
   "inventoryIcon" : "gunbag3icon.png",
-  "animation" : "/items/active/unsorted/weaponbags/weaponbag.animation",
+  "animation" : "/items/active/unsorted/weaponbag/weaponbag.animation",
   "animationCustom" : {
     "animatedParts": {
       "parts" : {
@@ -23,13 +23,13 @@
       }
     }
   },
-  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
+  "scripts" : ["/items/active/unsorted/weaponbag/weaponbag.lua"],
 
   "fireTime" : 2.0,
   "fireOffset" : [1.0, 0.0],
 
   "treasure" : {
-    "pool" : "heavyWeaponsU",
+    "pool" : "heavyWeaponsR",
     "level" : 1
   }
 }
