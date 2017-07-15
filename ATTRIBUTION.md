@@ -5,7 +5,7 @@
 
 originally by:
 
-Superepicgecko | forum: [714236] | steam: [The Honey Badger] |
+Superepicgecko | forum: [707592] | steam: [Superepicgecko] | patreon: [patreon.com/superepicgecko]
 
 updated by:
 
@@ -32,6 +32,12 @@ and viewers, like you.
 http://chbrown.github.io/rfc6902/
 
 
+
+[707592]: http://community.playstarbound.com/members/707592/
+
+[Superepicgecko]: http://steamcommunity.com/id/superepicgecko/myworkshopfiles/?appid=211820
+
+[patreon.com/superepicgecko]: https://www.patreon.com/superepicgecko
 
 [714236]: http://community.playstarbound.com/members/714236
 
