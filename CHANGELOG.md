@@ -1,9 +1,9 @@
-# sbmod-
-#######
+# sbmod-rwcfix
 # changelog
-+ addition
-* change
-- removal
+
+v0.2 2017-07-15
++ weaponbox crafts no longer require blueprint
++ weapons generate at the same level of current instanced world
 
 v0.1a 2017-02-25
 + magic bag

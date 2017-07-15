@@ -1,14 +1,18 @@
+![_previewimage]
+
 # sbmod-rwcfix
+# readme
 
-Code licensed under GPLv3, file included
+Project licensed under a modified [MIT license], file included.
 
-community.playstarbound.com/threads/124193/
+See also [ATTRIBUTION.md], [CHANGELOG.md], [DOC.md], and [_metadata].
 
-Mod temporarily under developement by IHCaTHB without explicit permission from original author Superepicgecko.
+You can contact the author on the official Starbound forums [MEGATHREAD].
 
-Original can be found https://steamcommunity.com/sharedfiles/filedetails/?id=759536781.
-
-Find all other pertinent information in the _metadata file.
-
-
-
+[_previewimage]: _previewimage
+[MIT license]: LICENSE
+[ATTRIBUTION.md]: ATTRIBUTION.md
+[CHANGELOG.md]: ../master/CHANGELOG.md
+[DOC.md]: DOC.md
+[_metadata]: _metadata
+[MEGATHREAD]: http://community.playstarbound.com/threads/124193/
